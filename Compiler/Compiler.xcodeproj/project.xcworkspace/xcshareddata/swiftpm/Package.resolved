@@ -1,0 +1,33 @@
+{
+  "originHash" : "bfeb7fb2e616a3d89819f090b1ca6d84356f159bab23189d2597522427e0ab60",
+  "pins" : [
+    {
+      "identity" : "richtextkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/RichTextKit.git",
+      "state" : {
+        "revision" : "f0ecceb71ff3cb12a3143eed13b8b62fea7c34e5",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftui-texteditor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jaywcjlove/swiftui-texteditor.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ff7f54733a4f6c4b5a0266828ba58c48ff9592f9"
+      }
+    },
+    {
+      "identity" : "texteditor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nothingsh/TextEditor.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b3de3be0650c4206422194ae5a50144dcdf234cd"
+      }
+    }
+  ],
+  "version" : 3
+}
